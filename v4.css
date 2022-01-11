@@ -1,0 +1,16 @@
+body
+{
+  background-image: url('background.png'),linear-gradient(149deg, rgba(111,22,172,1) 0%, rgba(66,181,235,1) 51%, rgba(199,0,255,1) 100%); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+    
+  font-family: 'montserrat';
+}
+
+h1 {
+    font-size: 22vmin;
+    color: white;
+}
